@@ -1,0 +1,1 @@
+Node.js code that lets a user look up the Title, Description, Channel Name, Like Count, View Count, and Comment Count of a Youtube video from a URL. The code also lets the user see 10 comments from a Youtube video, as well as present top 10 Youtube videos from search terms.
